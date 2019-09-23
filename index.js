@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   var i = 0;
   var johnLennonFacts = [];
   
-  while (i < array.Length) {
+  while (i < facts.Length) {
     johnLennonFacts.push[facts[i] + "!!!"];
     ++i;
   }
